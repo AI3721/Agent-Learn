@@ -1,0 +1,9 @@
+pandas
+pandassql
+langgraph
+langchain
+langchain_openai
+langchain_community
+langchain_experimental
+duckduckgo-search
+gradio
